@@ -1,0 +1,12 @@
+
+
+Thu Oct 05 2023 14:04:33:910 GMT+0530 (IST) -- [WARNING] Discovered proxy settings in your environment. Use the --pac-file argument to specify the absolute path to your PAC file. For more proxy options, refer to the Local Testing documentation  (https://www.browserstack.com/local-testing/binary-params).
+
+Thu Oct 05 2023 14:04:33:910 GMT+0530 (IST) -- You can disable this warning by using the --disable-proxy-discovery argument while using the Local binary.
+
+Thu Oct 05 2023 14:04:35:118 GMT+0530 (IST) -- [INFO] Started the BrowserStack Binary server on 45691, PID: 42258
+Thu Oct 05 2023 14:04:35:220 GMT+0530 (IST) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Thu Oct 05 2023 14:04:41:187 GMT+0530 (IST) -- Press Ctrl-C to exit
+
+
